@@ -1,0 +1,286 @@
+[*] http://soc-web-prd-01.napier.ac.uk/staff/petra/cw/ : This url is using ....
+
+[*] Usage: get_links
+[+] The number of hyperLinks which are found: 18
+
+[+] The following are the absolute links of hyperlinks: 
+     No(1): http://cwe.mitre.org/top25/ ----------> 1 time(s) repeated
+     No(2): http://php.net/manual/en/intro-whatis.php ----------> 1 time(s) repeated
+     No(3): http://web.mit.edu/hackl/www/lab/turkshop/slides/regex-cheatsheet.pdf ----------> 1 time(s) repeated
+     No(4): http://www.napier.ac.uk/en/Courses/MSc-Advanced-Security-and-Digital-Forensics-Postgraduate-FullTime ----------> 1 time(s) repeated
+     No(5): http://www.rottentomatoes.com/m/1000085_2001_a_space_odyssey/pictures ----------> 1 time(s) repeated
+     No(6): https://asecuritysite.com ----------> 1 time(s) repeated
+     No(7): https://link.theplatform.com/s/NGweTC/media/rZP5nY5nkQ9s?format=redirect ----------> 1 time(s) repeated
+     No(8): https://www.rottentomatoes.com/m/1000085_2001_a_space_odyssey ----------> 1 time(s) repeated
+     No(9): https://www.rottentomatoes.com/m/star_wars_the_last_jedi/ ----------> 1 time(s) repeated
+     No(10): https://www.rottentomatoes.com/m/star_wars_the_last_jedi/trailers/11304078 ----------> 1 time(s) repeated
+     No(11): https://www.rottentomatoes.com/m/the_martian ----------> 2 time(s) repeated
+     No(12): mailto:webteam@mail.napier.ac.uk ----------> 1 time(s) repeated
+
+[+] The following are the relative links of hyperlinks: 
+     No(1): http://soc-web-prd-01.napier.ac.uk/staff/petra/cw/Doc100.docx ----------> 1 time(s) repeated
+     No(2): http://soc-web-prd-01.napier.ac.uk/staff/petra/cw/broken.docx ----------> 1 time(s) repeated
+     No(3): http://soc-web-prd-01.napier.ac.uk/staff/petra/cw/not-a-lot-of-content-page.html ----------> 1 time(s) repeated
+     No(4): http://soc-web-prd-01.napier.ac.uk/staff/petra/cw/nothingtoseehere.pdf ----------> 1 time(s) repeated
+     No(5): http://soc-web-prd-01.napier.ac.uk/staff/petra/cw/subfolder/Martian.docx ----------> 1 time(s) repeated
+
+***********************************************************************************************************************************************************************
+
+[*] Usage: img_file_analysis.get_image
+[+] The number of images which are found: 15
+
+[+] The following are the absolute links of images: 
+     No(1): https://asecuritysite.com/content/icon_clown.gif ----------> 1 time(s) repeated
+     No(2): https://resizing.flixster.com/00zPNKDlHUNtYCEEAx3V47qxtw4=/fit-in/1152x864/v1.bjsxNzQ3MTg4O2o7MTgwMjA7MTIwMDs1NzYwOzM4NDA ----------> 1 time(s) repeated
+     No(3): https://resizing.flixster.com/rLAoq_aX1ZYgon9StZ9358ikwnY=/300x300/v1.bjsxNzQ3MTg4O2o7MTc5MzA7MTIwMDs1NzYwOzM4NDA ----------> 1 time(s) repeated
+
+[+] The following are the relative links of images: 
+     No(1): http://soc-web-prd-01.napier.ac.uk/staff/petra/cw/2001-a-space-odyssey.JPG ----------> 1 time(s) repeated
+     No(2): http://soc-web-prd-01.napier.ac.uk/staff/petra/cw/big.jpg ----------> 1 time(s) repeated
+     No(3): http://soc-web-prd-01.napier.ac.uk/staff/petra/cw/dingbat.jpg ----------> 1 time(s) repeated
+     No(4): http://soc-web-prd-01.napier.ac.uk/staff/petra/cw/essays.gif ----------> 1 time(s) repeated
+     No(5): http://soc-web-prd-01.napier.ac.uk/staff/petra/cw/gchq-certified.jpg ----------> 1 time(s) repeated
+     No(6): http://soc-web-prd-01.napier.ac.uk/staff/petra/cw/gear3.png ----------> 1 time(s) repeated
+     No(7): http://soc-web-prd-01.napier.ac.uk/staff/petra/cw/icon_clown.gif ----------> 1 time(s) repeated
+     No(8): http://soc-web-prd-01.napier.ac.uk/staff/petra/cw/monty-python-(1).bmp ----------> 1 time(s) repeated
+     No(9): http://soc-web-prd-01.napier.ac.uk/staff/petra/cw/msc_asdf_logo.jpeg ----------> 1 time(s) repeated
+     No(10): http://soc-web-prd-01.napier.ac.uk/staff/petra/cw/subfolder/The%20Martian%20-%20image.jpg ----------> 1 time(s) repeated
+     No(11): http://soc-web-prd-01.napier.ac.uk/staff/petra/cw/subfolder/icon_clown.gif ----------> 1 time(s) repeated
+     No(12): http://soc-web-prd-01.napier.ac.uk/staff/petra/cw/xine.png ----------> 1 time(s) repeated
+
+***********************************************************************************************************************************************************************
+
+[*] Usage: img_file_analysis.get_file
+[+] The number of files which are found: 5
+
+[+] The following are the absolute links of files: 
+     No(1): http://web.mit.edu/hackl/www/lab/turkshop/slides/regex-cheatsheet.pdf ----------> 1 time(s) repeated
+
+[+] The following are the relative links of files: 
+     No(1): http://soc-web-prd-01.napier.ac.uk/staff/petra/cw/Doc100.docx ----------> 1 time(s) repeated
+     No(2): http://soc-web-prd-01.napier.ac.uk/staff/petra/cw/broken.docx ----------> 1 time(s) repeated
+     No(3): http://soc-web-prd-01.napier.ac.uk/staff/petra/cw/nothingtoseehere.pdf ----------> 1 time(s) repeated
+     No(4): http://soc-web-prd-01.napier.ac.uk/staff/petra/cw/subfolder/Martian.docx ----------> 1 time(s) repeated
+
+***********************************************************************************************************************************************************************
+
+[*] Usage: email_phone_analysis.findemail
+
+[+] The number of email addresses which are found: 4
+     No(1): p.leimich@napier.ac.uk ----------> 1 time(s) repeated
+     No(2): mitcho@mitcho.com. ----------> 1 time(s) repeated
+     No(3): bill@napier-mail.ac.uk ----------> 1 time(s) repeated
+     No(4): webteam@mail.napier.ac.uk ----------> 1 time(s) repeated
+
+[+] The following 1 is(are) the mailto email!!!
+     No(1): mailto:webteam@mail.napier.ac.uk ----------> 1 time(s) repeated
+
+***********************************************************************************************************************************************************************
+
+[*] Usage: email_phone_analysis.getphone
+
+[+] The number of phone numbers which are found: 4
+     No(1): +44-131-4552706 ----------> 2 time(s) repeated
+     No(2): +44 (0)333 900 6040 ----------> 1 time(s) repeated
+     No(3): +44(0)1314552759 ----------> 1 time(s) repeated
+
+***********************************************************************************************************************************************************************
+
+[*] Usage: hash_crack.get_hash
+
+[+] The number of hash which are found: 5
+     No(1): fea0f1f6fede90bd0a925b4194deac11 ----------> 2 time(s) repeated
+     No(2): d1133275ee2118be63a577af759fc052 ----------> 1 time(s) repeated
+     No(3): 5badcaf789d3d1d09794d8f021f40f0e ----------> 1 time(s) repeated
+     No(4): 5fcfd41e547a12215b173ff47fdd3739 ----------> 1 time(s) repeated
+
+***********************************************************************************************************************************************************************
+
+[*] Usage: hash_crack.crack_hash
+
+[+] fea0f1f6fede90bd0a925b4194deac11 is cracking...
+     The hash is cracked!!!
+     The password of the hash is ----------> cheese
+
+[+] d1133275ee2118be63a577af759fc052 is cracking...
+     The hash is cracked!!!
+     The password of the hash is ----------> joshua
+
+[+] 5badcaf789d3d1d09794d8f021f40f0e is cracking...
+     The hash is cracked!!!
+     The password of the hash is ----------> starwars
+
+[+] 5fcfd41e547a12215b173ff47fdd3739 is cracking...
+     The hash is cracked!!!
+     The password of the hash is ----------> trustno1
+
+***********************************************************************************************************************************************************************
+
+[*] Usage: link_download.file_download
+[+] The number of downloading files which are found: 20
+
+     2001-a-space-odyssey.JPG ----------> Downloading successful
+
+     Doc100.docx ----------> Downloading successful
+
+     big.jpg ----------> Downloading successful
+
+[-] Error code : 404 ----------> !!!**broken.docx** is the borken link which cannot find!!!
+
+     dingbat.jpg ----------> Downloading successful
+
+     essays.gif ----------> Downloading successful
+
+     gchq-certified.jpg ----------> Downloading successful
+
+     gear3.png ----------> Downloading successful
+
+     http://web.mit.edu/hackl/www/lab/turkshop/slides/regex-cheatsheet.pdf ----------> Downloading successful
+
+[-] Exception(ConnectionResetError): [WinError 10054] An existing connection was forcibly closed by the remote host ::: **https://asecuritysite.com/content/icon_clown.gif** cannot be downloaded!!!
+
+     https://resizing.flixster.com/00zPNKDlHUNtYCEEAx3V47qxtw4=/fit-in/1152x864/v1.bjsxNzQ3MTg4O2o7MTgwMjA7MTIwMDs1NzYwOzM4NDA ----------> Downloading successful
+
+     https://resizing.flixster.com/rLAoq_aX1ZYgon9StZ9358ikwnY=/300x300/v1.bjsxNzQ3MTg4O2o7MTc5MzA7MTIwMDs1NzYwOzM4NDA ----------> Downloading successful
+
+     icon_clown.gif ----------> Downloading successful
+
+     monty-python-(1).bmp ----------> Downloading successful
+
+     msc_asdf_logo.jpeg ----------> Downloading successful
+
+     nothingtoseehere.pdf ----------> Downloading successful
+
+     Martian.docx ----------> Downloading successful
+
+[-] Error code : 404 ----------> !!!**The%20Martian%20-%20image.jpg** is the borken link which cannot find!!!
+
+     icon_clown.gif ----------> Downloading successful
+
+     xine.png ----------> Downloading successful
+
+
+[+] The number of files which are downloaded: 17
+[-] The number of file which are failed to download: 3
+
+***********************************************************************************************************************************************************************
+
+[*] Usage: link_download.check_duplicate
+
+--> icon_clown.gif has the same name with icon_clown (1).gif
+     But, they do not have the same content
+
+***********************************************************************************************************************************************************************
+
+[*] Usage: file_analysis.check_type
+
+--> Checking file extension of 2001-a-space-odyssey.JPG ...
+      Its hash signature: b'\xff\xd8\xff'
+      Its file type ----------> JPG
+      Its actual file extension ----------> JPG
+      Its file type and real file extensions are matched!
+
+--> Checking file extension of big.jpg ...
+      Its hash signature: b'\xff\xd8\xff'
+      Its file type ----------> jpg
+      Its actual file extension ----------> jpg
+      Its file type and real file extensions are matched!
+
+--> Checking file extension of dingbat.jpg ...
+      Its hash signature: b'\xff\xd8\xff'
+      Its file type ----------> jpg
+      Its actual file extension ----------> jpg
+      Its file type and real file extensions are matched!
+
+--> Checking file extension of Doc100.docx ...
+      Its hash signature: b'PK\x03'
+      Its file type ----------> docx
+      Its actual file extension ----------> docx
+      Its file type and real file extensions are matched!
+
+--> Checking file extension of essays.gif ...
+      Its hash signature: b'GIF'
+      Its file type ----------> gif
+      Its actual file extension ----------> gif
+      Its file type and real file extensions are matched!
+
+--> Checking file extension of gchq-certified.jpg ...
+      Its hash signature: b'\xff\xd8\xff'
+      Its file type ----------> jpg
+      Its actual file extension ----------> jpg
+      Its file type and real file extensions are matched!
+
+--> Checking file extension of gear3.png ...
+      Its hash signature: b'\x89PN'
+      Its file type ----------> png
+      Its actual file extension ----------> png
+      Its file type and real file extensions are matched!
+
+--> Checking file extension of icon_clown (1).gif ...
+      Its hash signature: b'GIF'
+      Its file type ----------> gif
+      Its actual file extension ----------> gif
+      Its file type and real file extensions are matched!
+
+--> Checking file extension of icon_clown.gif ...
+      Its hash signature: b'GIF'
+      Its file type ----------> gif
+      Its actual file extension ----------> gif
+      Its file type and real file extensions are matched!
+
+--> Checking file extension of Martian.docx ...
+      Its hash signature: b'\xff\xd8\xff'
+      Its file type ----------> docx
+[-]  Its actual file extension cannot be identified!!!
+
+--> Checking file extension of monty-python-(1).bmp ...
+      Its hash signature: b'\xff\xd8\xff'
+      Its file type ----------> bmp
+[-]  Its actual file extension cannot be identified!!!
+
+--> Checking file extension of msc_asdf_logo.jpeg ...
+      Its hash signature: b'\xff\xd8\xff'
+      Its file type ----------> jpeg
+      Its actual file extension ----------> jpeg
+      Its file type and real file extensions are matched!
+
+--> Checking file extension of nothingtoseehere.pdf ...
+      Its hash signature: b'\xff\xd8\xff'
+      Its file type ----------> pdf
+[-]  Its actual file extension cannot be identified!!!
+
+--> Checking file extension of regex-cheatsheet.pdf ...
+      Its hash signature: b'%PD'
+      Its file type ----------> pdf
+      Its actual file extension ----------> pdf
+      Its file type and real file extensions are matched!
+
+--> Checking file extension of v1.bjsxNzQ3MTg4O2o7MTc5MzA7MTIwMDs1NzYwOzM4NDA ...
+      Its hash signature: b'\xff\xd8\xff'
+      Its file type ----------> bjsxNzQ3MTg4O2o7MTc5MzA7MTIwMDs1NzYwOzM4NDA
+[-]  Its actual file extension cannot be identified!!!
+
+--> Checking file extension of v1.bjsxNzQ3MTg4O2o7MTgwMjA7MTIwMDs1NzYwOzM4NDA ...
+      Its hash signature: b'\xff\xd8\xff'
+      Its file type ----------> bjsxNzQ3MTg4O2o7MTgwMjA7MTIwMDs1NzYwOzM4NDA
+[-]  Its actual file extension cannot be identified!!!
+
+--> Checking file extension of xine.png ...
+      Its hash signature: b'\x89PN'
+      Its file type ----------> png
+      Its actual file extension ----------> png
+      Its file type and real file extensions are matched!
+
+[+]  The number of files which are match with its actual extension: 12
+[-]  The number of file which are not match with its actual extension: 5
+
+***********************************************************************************************************************************************************************
+
+[*] Usage: file_analysis.find_badfile
+
+--> Martian.docx is matched with **bad_file3.jpg** So, It is the bad file!!!
+--> nothingtoseehere.pdf is matched with **bad_file2.jpg** So, It is the bad file!!!
+
+[+] The numbers of bad files which are found: 2
+
+***********************************************************************************************************************************************************************
